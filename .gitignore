@@ -11,7 +11,7 @@ dist/
 */**/yarn.lock
 yarn-error.log
 */**/package-lock.json
-package-lock.json
+
 
 /bundle*.js
 npm-debug.log
@@ -34,28 +34,7 @@ npm-debug.log
 .libs/
 *.vtg
 tags
-aclocal.m4
-autom4te.cache/
-autoregen.sh
-config.guess
-config.h
-config.h.in
-config.log
-config.status
-config.sub
-configure
-depcomp
-install-sh
-libtool
-ltmain.sh
-Makefile.in
-missing
-stamp-h1
-compile
-CMakeFiles/
-CMakeCache.txt
-CMakeLists.txt.user
-Debug/
+
 
 #IDEs
 .vscode/ipch
